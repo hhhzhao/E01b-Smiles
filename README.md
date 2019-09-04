@@ -1,3 +1,12 @@
+Hi, this is Hua Zhao.
+For this project, I have changed several files that instructor ask us to do.
+In the main1.py I adjust the position of each dots and make it to locate properly and looks like a smile face. I also changed the size of the eyes and make it looks better. 
+For main2.py I improve the position to make the smile face locate in the center of the window. In that term, we used the x and y based on the variable of the position of the smile face. 
+In main3.py we improve our methods. Each part of the smile face has its own variable so we will not get mass up becasue of the confusion. We can easily adjust those changes and make it easily understanable. 
+In main4.py I make the smile faces all over the screen. We used the loop based on the size of the screen. When the number of the location goes up, the new smile face will move to a new position. If I changed line 16 and 18, we will see the number of smile faces increase or decrease.
+In main5.py, I add some comments to describe what each steps of the code suppose to do. 
+
+
 # E01b-Smiles
 An exercise exploring variables and loops using Python Arcade.
 
